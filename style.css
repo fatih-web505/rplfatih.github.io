@@ -3,7 +3,7 @@ body {
     margin: 0;
     padding: 0;
     background: linear-gradient(to bottom, #a72f2f, #d4c40e);
-    color: #2b261e;
+    color: #ffffff;
     line-height: 1.6;
 }
 
@@ -30,7 +30,7 @@ header p {
     border-radius: 12px;
     margin: 20px auto;
     padding: 20px;
-    background: #fff;
+    background: #d8b881;
     max-width: 650px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
     transition: transform 0.3s ease, box-shadow 0.3s ease;
